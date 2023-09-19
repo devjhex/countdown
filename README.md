@@ -19,4 +19,6 @@
 
  If the giveaway time is reached then the giveaway should indicate that is has ended in form of text of something else and the timer should stop.
 
+### Screenshots
+
 
